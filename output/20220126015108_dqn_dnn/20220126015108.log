@@ -1,0 +1,7 @@
+[005930] RL:dqn Net:dnn LR:0.001 DF:0.9 TU:[1,1]
+[005930][Epoch 001/100] Epsilon:1.0000 #Expl.:618/618 #Buy:187 #Sell:182 #Hold:249 #Stocks:5 PV:13,153,374 Loss:0.026197 ET:0.3649
+[005930][Epoch 002/100] Epsilon:0.9799 #Expl.:605/618 #Buy:169 #Sell:169 #Hold:280 #Stocks:0 PV:12,873,053 Loss:0.016830 ET:0.4773
+[005930][Epoch 003/100] Epsilon:0.9600 #Expl.:589/618 #Buy:171 #Sell:167 #Hold:280 #Stocks:4 PV:14,169,149 Loss:0.027382 ET:0.3317
+[005930][Epoch 004/100] Epsilon:0.9403 #Expl.:575/618 #Buy:151 #Sell:150 #Hold:317 #Stocks:1 PV:11,980,532 Loss:0.009582 ET:0.3666
+[005930][Epoch 005/100] Epsilon:0.9208 #Expl.:570/618 #Buy:191 #Sell:188 #Hold:239 #Stocks:3 PV:11,913,322 Loss:0.012675 ET:0.4715
+[005930][Epoch 006/100] Epsilon:0.9015 #Expl.:561/618 #Buy:173 #Sell:168 #Hold:277 #Stocks:5 PV:13,932,114 Loss:0.027220 ET:0.4449

@@ -1,0 +1,2 @@
+[005930] RL:dqn Net:dnn LR:0.001 DF:0.9 TU:[1,1]
+[005930][Epoch 001/100] Epsilon:1.0000 #Expl.:618/618 #Buy:175 #Sell:170 #Hold:273 #Stocks:5 PV:16,162,676 Loss:0.082688 ET:1.7174
