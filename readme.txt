@@ -5,13 +5,7 @@
 ## Version : 0.0.1                                                                                      ##
 ## Last touch-up date : 2020-01-26                                                                      ##
 ##########################################################################################################
-
-
-################################################################################################
-2020-01-26
-* Add pytorch gpu from the existing code
-
-1. RUN : python main.py
+RUN : python main.py or sh run.sh
 
        options : --stock_code
                  --ver : data form [v1, v2, v3, v4]
@@ -33,4 +27,10 @@
                  --start_date
                  --end_date
 
+update history
+################################################################################################
+2022-01-26
+* Add pytorch gpu from the existing code
+
+1. 
 An example of an execution command : python main.py --stock_code 005930 --rl_method dqn --net dnn --learning --num_epoches 100 --lr 0.001 --start_epsilon 1 --discount_factor 0.9
